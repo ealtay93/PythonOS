@@ -1,9 +1,9 @@
 <snippet>
-  <content><![CDATA[
-# ${1:Project Name}
+  <content>
+#Project Name}
 Simple Socket Programming in Python
 
-## Project Description
+##Project Description
 Client-Server communication & data transmission 
 
 ##Prerequisites
@@ -17,7 +17,6 @@ python client.py
 
 ## License
 GNU
-
-]]></content>
+</content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
