@@ -11,7 +11,7 @@ python 2.7.13<br>
 Python IDE(PyCharm)
 
 ## Usage
-python ListFolder.py
+python ListFolders.py
 
 ## License
 GNU
