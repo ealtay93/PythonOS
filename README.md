@@ -1,19 +1,17 @@
 <snippet>
   <content>
 #Project Name
-Simple Socket Programming in Python
+Simple Folder List Script with Python
 
 ##Project Description
-Client-Server communication & data transmission 
+List All the folders/subfolders according the given path
 
 ##Prerequisites
 python 2.7.13<br>
-localhost(xampp)<br>
 Python IDE(PyCharm)
 
 ## Usage
-python server.py
-python client.py
+python ListFolder.py
 
 ## License
 GNU
